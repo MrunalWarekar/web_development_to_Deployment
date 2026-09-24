@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Store Template
 
 In this workshop we build a small online shop. Visitors sign in with Google, browse products, fill a cart and place orders. Every sign in and every order is saved to three databases at the same time: Firebase Firestore, CockroachDB and MySQL. The React site and its API are then deployed on Vercel or Netlify.
@@ -27,3 +28,6 @@ In this workshop we build a small online shop. Visitors sign in with Google, bro
 - `server/catalog.js`: store name, currency and products
 - `src/config.js`: store name shown on the page, currency and locale
 - `public/images`: product images
+=======
+# web_development_to_Deployment
+>>>>>>> dfa7156e8bbe9d4a3ad5e36eb59ed10715fdeaa2
